@@ -1,5 +1,6 @@
-### Olá terráqueo, eu sou Rafael Soares 🐱‍👓
+### Olá Terráqueo, eu sou Rafael Soares 🐱‍👓
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
+
 - 🐱‍🏍 Hoje estudo Ciência e Tecnologia com ênfase em computação 
 - 🌱 Atuamente focado no aprendizado do front-end (HTML, CSS, JS, BOOTRAP)
 
@@ -15,6 +16,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" alt="RafAEL_GATINHO" src="https://media.giphy.com/media/tRoH9EYLs3lok/giphy.gif">
 </div>
  
 <div> 
