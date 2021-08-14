@@ -2,7 +2,7 @@
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
 - 🐱‍🏍 Hoje estudo Ciência e Tecnologia com ênfase em computação 
-- 🌱 Atuamente focado no aprendizado do front-end (HTML, CSS, JS, BOOTRAP)
+- 🌱 Atuamente focado no aprendizado do front-end (HTML, CSS, JS, BOOTSTRAP)
 
 <div>
   <a href="https://github.com/rafaelsoares07">
