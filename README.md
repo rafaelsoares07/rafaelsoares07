@@ -1,8 +1,8 @@
-### Olá Terráqueo, eu sou Rafael Soares 🐱‍👓
+### Hey there, eu sou Rafael Soares 🐱‍👓
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
 - 🐱‍🏍 Hoje estudo Ciência e Tecnologia com ênfase em computação 
-- 🌱 Atuamente focado no aprendizado do front-end (HTML, CSS, JS, BOOTSTRAP)
+- 🌱 Atuamente focado no aprendizado full-stack no bootcamp da driven.
 
 <div>
   <a href="https://github.com/rafaelsoares07">
