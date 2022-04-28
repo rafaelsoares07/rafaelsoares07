@@ -1,8 +1,8 @@
 ### Olá terráqueo, eu sou Rafael Soares 🐱‍👓
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
--  Hoje estudo Ciência e Tecnologia com ênfase em computação na UFRN
--  Atuamente focado no aprendizado full-stack no bootcamp da Driven Education.seedling 
+-🔭 Hoje estudo Ciência e Tecnologia com ênfase em computação na UFRN
+-🌱 Atuamente focado no aprendizado full-stack no bootcamp da Driven Education.seedling 
 
 <div>
   <a href="https://github.com/rafaelsoares07">
