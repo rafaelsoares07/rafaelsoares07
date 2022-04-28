@@ -1,4 +1,4 @@
-### Hey there, eu sou Rafael Soares 🐱‍👓
+### Olá terráqueo, eu sou Rafael Soares 🐱‍👓
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
 - 🐱‍🏍 Hoje estudo Ciência e Tecnologia com ênfase em computação 
