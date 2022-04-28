@@ -2,7 +2,7 @@
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
 - 🐱‍🏍 Hoje estudo Ciência e Tecnologia com ênfase em computação 
-- 🌱 Atuamente focado no aprendizado full-stack no bootcamp da driven.
+- 🌱 Atuamente focado no aprendizado full-stack no bootcamp da Driven Education.
 
 <div>
   <a href="https://github.com/rafaelsoares07">
@@ -10,9 +10,9 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoares07&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+## Hard Skills:
   <div style="display: inline_block" ><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
