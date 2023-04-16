@@ -2,7 +2,7 @@
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
 - 🔭 Hoje estudo Ciência e Tecnologia com ênfase em computação na UFRN. <br>
-- 🌱 Atuamente focado no aprendizado full-stack no bootcamp da Driven Education.
+- 🌱 Desenvolvedor FullStack.
 
 <div>
   <a href="https://github.com/rafaelsoares07">
