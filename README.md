@@ -1,11 +1,9 @@
-### Olá terráqueo🐱‍
+se### Olá terráqueo🐱‍
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
 <div>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/apishow_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?user&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
  
 ##### Liguagens que utilizo 
 
@@ -27,8 +25,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
-## 📱 Contato
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soares-gabriel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelsgabriel9@gmail.com)
   
 </div>
