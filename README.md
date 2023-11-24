@@ -1,4 +1,4 @@
-### Olá terráqueo, eu sou Rafael Soares 🐱‍
+### Olá terráqueo🐱‍
 <!-- Markindall = é tio o html do github (formatacoes, letras,tamanhos) -->
 
 <div>
